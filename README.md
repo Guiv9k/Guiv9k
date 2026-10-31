@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, eu sou o Gui.
 
-<!--
-**Guiv9k/Guiv9k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor focado em criar sites claros e funcionais para negócios locais.  
+Também desenvolvo ferramentas para comunidades de games, sempre com foco em experiência e organização.
 
-Here are some ideas to get you started:
+## O que eu faço
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Crio sites para pequenos negócios, como barbearias e outros serviços locais.
+- Desenvolvo soluções digitais que deixam a presença online mais profissional e fácil de usar.
+
+## Tecnologias e ferramentas
+
+<p>
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" />
+  &nbsp;
+  <strong>Lovable</strong>
+</p>
+
+## Projeto em destaque
+
+- **Pry** — Bot de Discord para comunidades de Marvel Rivals, com desafios, ranking, loja, painéis e dashboard administrativo.  
+  _Em desenvolvimento privado._
+
+---
+
+🎮 Jogando agora: **Marvel Rivals**
+
+Contato: [Guiolv67@gmail.com](mailto:Guiolv67@gmail.com)
